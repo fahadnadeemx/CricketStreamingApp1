@@ -1,0 +1,59 @@
+{
+  "categories": [
+    {
+      "cid": 1,
+      "category_name": "Live Cricket TV Channels",
+      "category_image": ""
+    }
+  ],
+  "channels": [
+    {
+      "channel_id": "1",
+      "channel_name": "Channel 1",
+      "channel_image": "",
+      "channel_url": "https://stream.crichd.vip/update/skys2.php",
+      "channel_description": "",
+      "channel_type": "2",
+      "video_id": "",
+      "category_name": "Live Cricket TV Channels",
+      "user_agent": "",
+      "suggested": [
+        "2"
+      ]
+    },
+    {
+      "channel_id": "2",
+      "channel_name": "Channel 2",
+      "channel_image": "",
+      "channel_url": "https://stream.crichd.vip/update/sscricket.php",
+      "channel_description": "",
+      "channel_type": "2",
+      "video_id": "2",
+      "category_name": "Live Cricket TV Channels",
+      "user_agent": "",
+      "suggested": [
+        "1"
+      ]
+    }
+  ],
+  "ads": {
+    "ad_status": "1",
+    "ad_type": "admob",
+    "interstitial_ad_interval": 1,
+    "admob_publisher_id": "pub-3940256099942544",
+    "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+    "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
+    "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
+    "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
+    "admob_app_open_ad_unit_id": "ca-app-pub-3940256099942544/3419835294",
+    "ad_manager_banner_unit_id": "/6499/example/banner",
+    "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
+    "ad_manager_native_unit_id": "/6499/example/native",
+    "ad_manager_app_open_ad_unit_id": "/6499/example/app-open",
+    "fan_banner_unit_id": "",
+    "fan_interstitial_unit_id": "",
+    "fan_native_unit_id": "",
+    "youtube_api_key": "",
+    "onesignal_app_id": "ce397a56-303d-4c80-9d22-84bd19945435"
+  }
+}
