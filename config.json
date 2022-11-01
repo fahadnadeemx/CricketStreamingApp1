@@ -2,7 +2,7 @@
   "categories": [
     {
       "cid": 1,
-      "category_name": "Live Cricket T20 WorldCup 2022",
+      "category_name": "Cricket News",
       "category_image": ""
     }
   ],
@@ -11,11 +11,11 @@
       "channel_id": "1",
       "channel_name": "Channel 1",
       "channel_image": "",
-      "channel_url": "https://stream.crichd.vip/update/skys2.php",
+      "channel_url": "",
       "channel_description": "",
-      "channel_type": "2",
+      "channel_type": "1",
       "video_id": "",
-      "category_name": "Live Cricket T20 WorldCup 2022",
+      "category_name": "Cricket News",
       "user_agent": "",
       "suggested": [
         "2"
@@ -25,11 +25,25 @@
       "channel_id": "2",
       "channel_name": "Channel 2",
       "channel_image": "",
-      "channel_url": "https://stream.crichd.vip/update/sscricket.php",
+      "channel_url": "",
       "channel_description": "",
-      "channel_type": "2",
+      "channel_type": "1",
       "video_id": "",
-      "category_name": "Live Cricket T20 WorldCup 2022",
+      "category_name": "Cricket News",
+      "user_agent": "",
+      "suggested": [
+        "1"
+      ]
+    },
+     {
+      "channel_id": "3",
+      "channel_name": "Channel 3",
+      "channel_image": "",
+      "channel_url": "",
+      "channel_description": "",
+      "channel_type": "1",
+      "video_id": "",
+      "category_name": "Cricket News",
       "user_agent": "",
       "suggested": [
         "1"
